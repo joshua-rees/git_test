@@ -3,6 +3,14 @@ We are learining how to modify fils and commit them to git.
 command - git status will show us what files are staged 
 command - git add [file name] will put the file into the staging area.
             git add . will add all files in the current and lower directories
-command - git commit -m "filename.fileext" will move staged files into the repository.
+command - git commit -m "A message to identify the change in this commit." will move staged files into the repository.
+    the "-m" flag is for message. This makes it easy to identify changes.
 command - git status will do a check to see if there are any changes since last commit.
 command - git log will show you history.
+command - git push will move changes from your local repository to github.
+
+git syntax is... program / action / destination
+eg git add .
+is git / add / . where the . is everything in directory.
+
+this is the end of git basics unit.
