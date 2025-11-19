@@ -1,0 +1,8 @@
+We are learining how to modify fils and commit them to git.
+
+command - git status will show us what files are staged 
+command - git add [file name] will put the file into the staging area.
+            git add . will add all files in the current and lower directories
+command - git commit -m "filename.fileext" will move staged files into the repository.
+command - git status will do a check to see if there are any changes since last commit.
+command - git log will show you history.
